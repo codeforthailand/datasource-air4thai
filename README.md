@@ -3,6 +3,7 @@
 ```
 DISCLAIMER: This is an unofficial package. It's just a wrapper for the actual API.
 ```
+This Python package provides a convenient retrieval from Air4Thai's [history data API][api].
 
 ## Installation
 ```
@@ -22,13 +23,14 @@ df = Air4Thai.fetch(
 )
 ```
 
-Please visit DATADICT.md for available values of stations and measurements
+Please visit `DATA-DICTIONARY.md` for available values of stations and measurements
 
 ## Analysis Examples
 Currently, there is a tutorial on how to use the package to retrive Air4Thai's historical data and build a forecasting model for PM2.5.
-Please visit `./examples/tutorial.ipynb'
+Please visit `./examples/tutorial.ipynb`.
 
 
 ## Contributions
 Any feedback, suggestions, or pull-requests are more than welcome.
 
+[api]: http://air4thai.pcd.go.th/webV2/history/
