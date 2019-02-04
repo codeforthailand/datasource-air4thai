@@ -2,5 +2,5 @@
 *.egg-info
 build
 dist
-*.ipynb_checkpoints.idea
+*.ipynb_checkpoints
 *.idea
