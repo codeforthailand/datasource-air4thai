@@ -26,8 +26,8 @@ df = Air4Thai.fetch(
 Please visit `DATA-DICTIONARY.md` for available values of stations and measurements
 
 ## Analysis Examples
-Currently, there is a tutorial on how to use the package to retrive Air4Thai's historical data and build a forecasting model for PM2.5.
-Please visit `./examples/tutorial.ipynb`.
+Currently, there is a tutorial on how to use the package to retrieve Air4Thai's historical data. The tutorial also includes simple time series analysis that one can do with the data, such as seasonal decomposing or forecasting models.
+Feel free to check it out at `./examples/tutorial.ipynb`.
 
 
 ## Contributions
