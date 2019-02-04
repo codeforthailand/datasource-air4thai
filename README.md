@@ -3,7 +3,7 @@
 ```
 DISCLAIMER: This is an unofficial package. It's just a wrapper for the actual API.
 ```
-This Python package provides a convenient retrieval from Air4Thai's [history data API][api].
+This Python package provides a convenient way to retrieve data Air4Thai's [history data API][api].
 
 ## Installation
 ```
