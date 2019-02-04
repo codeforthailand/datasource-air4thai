@@ -33,6 +33,8 @@ Feel free to check it out at `./examples/tutorial.ipynb`.
 <img src="https://i.imgur.com/4unRLva.png"/>
 </div>
 
+## Relevant Projects
+- https://github.com/gain9999/PM2.5
 
 ## Contributions
 Any feedback, suggestions, or pull-requests are more than welcome.
